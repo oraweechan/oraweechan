@@ -5,7 +5,7 @@
 
 ## Welcome to my GitHub! 👋
 
-I'm an Accountant turned Software Engineer. I graduated from the Software Engineering Immersive program at General Assembly, where I refined my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills. I have an eye for detail and love to develop and design. Being able to combine logic and creativity to create applications and solve problems is fun!<br>
+I'm an Accountant turned Software Engineer. I graduated from the Software Engineering Immersive program at General Assembly, where I refined my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue to expand my knowledge and develop new skills. I have an eye for detail and love to develop and design. Being able to combine logic and creativity to create applications and solve problems is fun!<br>
 
 When I am not coding, I spend my time playing with my dog, playing video games, watching anime, and baking.
 
