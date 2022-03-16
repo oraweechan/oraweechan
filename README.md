@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, my name is Orawee 👋
+![](https://res.cloudinary.com/orawee/image/upload/v1647404181/hi_i_m_orawee_500_282_px_700_395_px_mtdspw.gif)
 
 <!--
 **oraweechan/oraweechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
