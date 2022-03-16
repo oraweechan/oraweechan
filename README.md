@@ -1,8 +1,11 @@
 
-![](https://res.cloudinary.com/orawee/image/upload/v1647404181/hi_i_m_orawee_500_282_px_700_395_px_mtdspw.gif)
-## Hi there, welcome to my GitHub! 👋
+<p align="center">
+    ![](https://res.cloudinary.com/orawee/image/upload/v1647404181/hi_i_m_orawee_500_282_px_700_395_px_mtdspw.gif)
+</p>
 
-I'm an Accountant turned Software Engineer. I graduated from the Software Engineering Immersive program at General Assembly, where I refined my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills. Being able to combine logic and creativity to develop and solve problems is fun!<br>
+## Welcome to my GitHub! 👋
+
+I'm an Accountant turned Software Engineer. I graduated from the Software Engineering Immersive program at General Assembly, where I refined my skills as a full-stack developer. I am eager to find my place on a collaborative team of talented individuals where I can continue expanding my knowledge and developing new skills. I have an eye for detail and love to develop and design. Being able to combine logic and creativity to develop and solve problems is fun!<br>
 
 When I am not coding, I spend my time playing with my dog, playing video games, and baking.
 
@@ -13,7 +16,7 @@ Check out my portfolio [here](https://oraweechan.github.io/)!
 Data Structures and Algorithms
 
 ### :sparkles: Fun facts: ... 
-INFJ, Enneagram 9
+Personality Type: INFJ, Enneagram 9
 <!--
 **oraweechan/oraweechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
