@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://res.cloudinary.com/orawee/image/upload/v1647446615/hi_i_m_orawee_500_282_px_700_395_px_hfa5rk.svg" alt="Banner">
+    <img src="https://res.cloudinary.com/orawee/image/upload/v1647446680/hi_i_m_orawee_500_282_px_700_395_px_1_idyqaq.gif" alt="Banner">
 </p>
 
 ## Welcome to my GitHub! 👋
